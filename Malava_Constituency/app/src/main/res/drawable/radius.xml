@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<stroke
+
+    android:width="2sp"
+    android:color="@color/white"
+
+
+
+    />
+
+
+    <corners
+
+        android:bottomLeftRadius="50dp"
+        android:topLeftRadius="50sp"
+        android:bottomRightRadius="50dp"
+        android:topRightRadius="50sp"/>
+
+
+    <solid android:color="@color/cyan"
+
+        />
+  <gradient
+
+      android:endColor="@color/green"
+      android:startColor="@color/brown"
+      android:centerColor="@color/yellowish"
+      android:angle="360"
+      />
+
+</shape>
+

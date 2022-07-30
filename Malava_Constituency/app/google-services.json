@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490170029739",
+    "project_id": "malava-constituency-bursary",
+    "storage_bucket": "malava-constituency-bursary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490170029739:android:63151063cc0d77c0f649ee",
+        "android_client_info": {
+          "package_name": "com.example.malava_constituency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490170029739-avceua1159bk9qvbc1sv6ueg8ebrthb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz70FuB4NUsCpsuWeeuJcISzbqFDoAGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490170029739-avceua1159bk9qvbc1sv6ueg8ebrthb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
